@@ -45,7 +45,7 @@ const data = [
         id: 7,
         name: "Darjeeling",
         info: "Darjeeling is a town in the Indian state of West Bengal. It is located in the Lesser Himalayas at an elevation of 6,700 ft (2,042.2 m). It is noted for its tea industry, its views of Kangchenjunga, the world's third-highest mountain, and the Darjeeling Himalayan Railway, a UNESCO World Heritage Site.",
-        img: "https://cdn.thecodehelp.in/Darjeeling.jpeg",
+        img: "/images/darjeeling.jpg",
         price: "₹ 12,660"
     },
     {
